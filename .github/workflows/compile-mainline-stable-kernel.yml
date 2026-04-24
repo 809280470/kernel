@@ -16,9 +16,7 @@ on:
         default: "809280470"
         type: choice
         options:
-          - unifreq
           - 809280470
-          - ophub
       kernel_version:
         description: "Select kernel version"
         required: false
